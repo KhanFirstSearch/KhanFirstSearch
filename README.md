@@ -38,4 +38,6 @@ I usually work on many projects, and when I'm nearing completion I make them pub
 - [Email](mailto:TODO@TODO.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanFirstSearch&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KhanFirstSearch)](https://github.com/KhanFirstSearch/github-readme-stats)
+
 
