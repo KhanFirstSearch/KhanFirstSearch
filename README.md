@@ -25,6 +25,8 @@
 ## About Me
 I'm Yousuf, a full-stack developer from the United States! I love to learn, workout, study, and play video games.
 
+I usually work on many projects, and when I'm nearing completion I make them public!
+
 ## Projects
 - **[URL Shortner](https://github.com/KhanFirstSearch/URL-Shortner)**: An application used to Shorten URLs. Users can utilize the REST API to create their own shortened URLs.
 - **[Maze Generator](https://github.com/KhanFirstSearch/MazeGenerator)**: Generates mazes using Depth-First Search (DFS) with a real-time visual representation of the process.
