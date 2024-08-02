@@ -32,6 +32,4 @@ I usually work on many projects, and when I'm nearing completion I make them pub
 - **[Maze Generator](https://github.com/KhanFirstSearch/MazeGenerator)**: Generates mazes using Depth-First Search (DFS) with a real-time visual representation of the process.
 - **[NeuralNetworkLib](https://github.com/KhanFirstSearch/NeuralNetworkLib)**: A library to create neural networks with ease and customization.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KhanFirstSearch)](https://github.com/KhanFirstSearch/github-readme-stats)
-
 
